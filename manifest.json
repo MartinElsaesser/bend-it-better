@@ -2,7 +2,7 @@
 	"theme_color": "#3157d1",
 	"background_color": "#b3b3b3",
 	"display": "standalone",
-	"scope": "/",
+	"scope": "/bend-it-better/",
 	"start_url": "/bend-it-better/",
 	"name": "Bend It Better",
 	"short_name": "BIB",
